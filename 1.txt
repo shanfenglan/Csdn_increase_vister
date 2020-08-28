@@ -1,0 +1,47 @@
+cmd命令行中常见的注册表操作:https://blog.csdn.net/qq_41874930/article/details/107799373
+权限维持新老技术:https://blog.csdn.net/qq_41874930/article/details/107798773
+cobalt strike中的一些小知识点的理解:https://blog.csdn.net/qq_41874930/article/details/107797189
+mac上使用openssl以两种方式生成自签名证书操作图解:https://blog.csdn.net/qq_41874930/article/details/107795556
+malleable_profile文件配置概述:https://blog.csdn.net/qq_41874930/article/details/107791606
+apache mod_write技术概述:https://blog.csdn.net/qq_41874930/article/details/107785751
+PE文件结构简述:https://blog.csdn.net/qq_41874930/article/details/107762592
+dig命令的常见用法详解:https://blog.csdn.net/qq_41874930/article/details/107757922
+域前置技术的原理与CS上的实现:https://blog.csdn.net/qq_41874930/article/details/107742843
+利用apache mod_rewrite模块隐藏CS的teamserver的原理与实现:https://blog.csdn.net/qq_41874930/article/details/107789018
+dns与smb beacon详解与一种内网穿透方法的实践:https://blog.csdn.net/qq_41874930/article/details/107840269
+cobalt strike各种beacon的详解（http/https/tcp）:https://blog.csdn.net/qq_41874930/article/details/107842074
+Foreign Beacon与CS跟MSF之间的会话派发与ssh端口转发:https://blog.csdn.net/qq_41874930/article/details/107856140
+External C2理解:https://blog.csdn.net/qq_41874930/article/details/107858553
+免杀简述1:https://blog.csdn.net/qq_41874930/article/details/107888250
+免杀简述2:https://blog.csdn.net/qq_41874930/article/details/107888800
+ruby语法基础:https://blog.csdn.net/qq_41874930/article/details/107910711
+SPF与邮件头简述:https://blog.csdn.net/qq_41874930/article/details/107937048
+outlook/qq邮箱之邮件伪造绕过SPF:https://blog.csdn.net/qq_41874930/article/details/107975887
+冰蝎3.0的使用方法与默认密码更改方法:https://blog.csdn.net/qq_41874930/article/details/107916317
+windows下socket编程:https://blog.csdn.net/qq_41874930/article/details/108070886
+msf加载器的原理与实现:https://blog.csdn.net/qq_41874930/article/details/108098825
+github网络安全工具合集:https://blog.csdn.net/qq_41874930/article/details/108106709
+NTML认证与kerberos认证与PAC相关知识:https://blog.csdn.net/qq_41874930/article/details/108124366
+各种端口扫描技术的相关原理:https://blog.csdn.net/qq_41874930/article/details/108124906
+windows命令行环境下几种文件下载的方法:https://blog.csdn.net/qq_41874930/article/details/108125169
+frp与ew:https://blog.csdn.net/qq_41874930/article/details/108126148
+sam文件获取与解密:https://blog.csdn.net/qq_41874930/article/details/108149449
+powershell下载文件与绕过执行策略与相关命令参数简述:https://blog.csdn.net/qq_41874930/article/details/108146932
+ntds.dit文件的获取与解密:https://blog.csdn.net/qq_41874930/article/details/108141331
+sqlmap命令行参数翻译与常见用法:https://blog.csdn.net/qq_41874930/article/details/108152294
+windows组策略简述:https://blog.csdn.net/qq_41874930/article/details/108152568
+linux下suid提权笔记:https://blog.csdn.net/qq_41874930/article/details/108189510
+敏感端口上的常见攻击方式:https://blog.csdn.net/qq_41874930/article/details/108189435
+https通信原理与中间人攻击原理与常见http服务端响应码:https://blog.csdn.net/qq_41874930/article/details/108189282
+linux反弹shell的原理:https://blog.csdn.net/qq_41874930/article/details/108195810
+linux shell常用命令简述:https://blog.csdn.net/qq_41874930/article/details/108193319
+windows日常使用常见快捷命令:https://blog.csdn.net/qq_41874930/article/details/108198448
+windows环境下信息收集的相关命令与内网定位:https://blog.csdn.net/qq_41874930/article/details/108226830
+日志分析与痕迹清理:https://blog.csdn.net/qq_41874930/article/details/108227086
+linux后渗透信息收集:https://blog.csdn.net/qq_41874930/article/details/108240435
+完整渗透测试的流程:https://blog.csdn.net/qq_41874930/article/details/108242880
+远程命令执行:https://blog.csdn.net/qq_41874930/article/details/108245293
+impacket的使用总结:https://blog.csdn.net/qq_41874930/article/details/108253531
+黄金票据的制作与使用:https://blog.csdn.net/qq_41874930/article/details/108266378
+mimikatz常用命令总结:https://blog.csdn.net/qq_41874930/article/details/108266353
+横向移动的思路与实现:https://blog.csdn.net/qq_41874930/article/details/108274266
